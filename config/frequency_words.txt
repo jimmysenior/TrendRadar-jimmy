@@ -230,6 +230,10 @@
 [AI 相关]
 /(?<![a-zA-Z])ai(?![a-zA-Z])/
 人工智能
+github
+openclaw
+hermes
+claude
 
 [芯片]
 芯片
@@ -256,3 +260,4 @@
 
 # 产业政策
 生产力
+
